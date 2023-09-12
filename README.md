@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# deep-learning
 ## Overview
 The goal of this analysis was to create a binary classification model using deep learning techniques to predict whether organizations funded by Alphabet Soup will be successful in their ventures. We were provided with a dataset containing information on more than 34,000 organizations that have received funding from Alphabet Soup. The dataset includes data about each organization, such as application type, affiliated sector of industry, government organization classification, use case for funding, organization type, income classification, special considerations for application, funding amount requested, and whether the money was used effectively.
 <img width="1044" alt="Screenshot 2023-08-03 at 4 36 13 PM" src="https://github.com/greerinns/deep-learning-challenge/assets/47437697/66bcc837-0145-44b7-8557-65c970996fd0">
