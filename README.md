@@ -1,6 +1,6 @@
 # deep-learning
 ## Overview
-The goal of this analysis was to create a binary classification model using deep learning techniques to predict whether organizations funded by Alphabet Soup will be successful in their ventures. We were provided with a dataset containing information on more than 34,000 organizations that have received funding from Alphabet Soup. The dataset includes data about each organization, such as application type, affiliated sector of industry, government organization classification, use case for funding, organization type, income classification, special considerations for application, funding amount requested, and whether the money was used effectively.
+The goal of this analysis was to create a binary classification model using deep learning techniques to predict whether organizations funded by Alphabet Soup will be successful in their ventures. A dataset was used that contains information on more than 34,000 organizations that have received funding from Alphabet Soup. The dataset includes data about each organization, such as application type, affiliated sector of industry, government organization classification, use case for funding, organization type, income classification, special considerations for application, funding amount requested, and whether the money was used effectively.
 <img width="1044" alt="Screenshot 2023-08-03 at 4 36 13 PM" src="https://github.com/greerinns/deep-learning-challenge/assets/47437697/66bcc837-0145-44b7-8557-65c970996fd0">
 
 ## Results
@@ -20,7 +20,7 @@ After the initial training, the model achieved an accuracy of around 73%, which 
 
 <img width="586" alt="Screenshot 2023-08-03 at 4 44 21 PM" src="https://github.com/greerinns/deep-learning-challenge/assets/47437697/f6845f71-5fbc-479f-8905-bfd44955368c">
 
-To improve the model's performance, several optimization strategies, including:
+To improve the model's performance, several optimization strategies were attempted, including:
 - dropping three columns (undid this as it made the model worse)
 - increasing the "other" bin for the application type binning (undid this as it made the model worse)
 - binned the asking amount column into two categories, 5000 and >5000
